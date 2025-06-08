@@ -43,9 +43,7 @@ This project investigates compensation patterns in the 2017 U.S. tech industry u
 - Models: Linear Regression, Ridge, Lasso, Logistic Regression
 - Evaluation: R², RMSE, ROC AUC, Precision, Recall, Confusion Matrix
 
-## Takeaways
-- Compensation is moderately predictable from individual factors, but improved with full models
-- Regularization offered minimal improvement due to low multicollinearity
-- Logistic classification of salary level highlights value in further feature exploration
+`Cardiel_Tech_Salaries.ipynb` — Main Jupyter notebook with code
+`Tech_Salaries` — Full write-up and analys
 
 ---
