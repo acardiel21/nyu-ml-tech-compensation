@@ -44,6 +44,7 @@ This project investigates compensation patterns in the 2017 U.S. tech industry u
 - Evaluation: R², RMSE, ROC AUC, Precision, Recall, Confusion Matrix
 
 `Cardiel_Tech_Salaries.ipynb` — Main Jupyter notebook with code
+
 `Tech_Salaries` — Full write-up and analys
 
 ---
